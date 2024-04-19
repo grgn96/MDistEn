@@ -3,7 +3,7 @@ Algorithm for the computation of Multichannel Distribution Entropy (MDistEn)
 
 This code implements the MDistEn algorithm for the computation of the Distribution Entropy value in multichannel systems, as described in:
 
-[1] A. Gargano, M. Nardelli, E.P. Scilingo, "Exploring Multivariate Dynamics of Emotions Through Time-Varying Self-Assessed Arousal and Valence Rating", [10.36227/techrxiv.171340614.49646043/v1](10.36227/techrxiv.171340614.49646043/v1)
+[1] A. Gargano, M. Nardelli, E.P. Scilingo, "Exploring Multivariate Dynamics of Emotions Through Time-Varying Self-Assessed Arousal and Valence Rating", [10.36227/techrxiv.171340614.49646043/v1](https://www.techrxiv.org/doi/full/10.36227/techrxiv.171340614.49646043/v1)
 
 MDistEn relies on a novel method for the reconstruction of multivariate phase spaces, in which each time series is embedded using its proper time delay, following a similar approach used for the MCI index (https://doi.org/10.1016/j.physa.2019.121543). However, MDistEn uses the information from the phase space distances to measure the spatial complexity of the multivariate trajectory and investigates the complex dynamics of the trajectory.
 
